@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of huglester/flarum-ext-lithuanian.** Not for installation: use [Packagist](https://packagist.org/packages/huglester/flarum-ext-lithuanian) or the [upstream repository](https://github.com/huglester/flarum-ext-lithuanian).
 
-**0** versions archived · Latest: [`v1.0.7`](https://github.com/flarchive/huglester-flarum-ext-lithuanian/tree/archive/v1.0.7) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**3** versions archived · Latest: [`v1.0.7`](https://github.com/flarchive/huglester-flarum-ext-lithuanian/tree/archive/v1.0.7) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.5` | 2019-02-11 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/huglester-flarum-ext-lithuanian/tree/archive/v1.0.5) |
+| `v1.0.6` | 2019-02-11 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/huglester-flarum-ext-lithuanian/tree/archive/v1.0.6) |
+| `v1.0.7` | 2019-02-11 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/huglester-flarum-ext-lithuanian/tree/archive/v1.0.7) |
 
 Catalog entry: [packages/huglester-flarum-ext-lithuanian.json](https://github.com/flarchive/archive-index/blob/main/packages/huglester-flarum-ext-lithuanian.json)
 
